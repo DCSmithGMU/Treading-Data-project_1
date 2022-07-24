@@ -1,0 +1,5 @@
+Title: Basic Template
+Depends:
+  R (>= 3.5)
+Imports:
+  tidyverse
